@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 Django = "^5.0.2"
+python-decouple = "^3.8"
+dj-database-url = "^2.1.0"
+black = "^24.2.0"
 
 
 [build-system]
